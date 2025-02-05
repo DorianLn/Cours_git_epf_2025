@@ -5,6 +5,7 @@ public class TriangleAvecPoint {
     private Point point2;
     private Point point3;
     private Point point4;
+    private Point point5;
 
     public TriangleAvecPoint(Point p1, Point p2, Point p3) {
         this.point1 = new Point(p1);
