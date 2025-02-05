@@ -4,6 +4,7 @@ public class CercleAvecPoint {
     private Point point1;
     private Point point2;
     private double rayon;
+    private double testcommit;
 
     public CercleAvecPoint(Point point1, Point point2, double rayon) {
         this.point1 = point1;
