@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
+public abstract class AUnCentre {
 
-public class AUnCentre {
 }
